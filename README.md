@@ -48,18 +48,6 @@ Criar um modelo de IA capaz de, com base nos dados dos clientes, **classificar a
 
 ---
 
-## 📊 Resultados Visuais  
-
-### Acurácia dos Modelos
-![Gráfico de Acurácia](./imagens/accuracia_modelos.png)
-
-### Tabela de Novos Clientes com Previsões
-![Tabela de Resultados](./imagens/tabela_previsoes.png)
-
-> As imagens acima mostram a comparação de desempenho entre os modelos e o resultado final das previsões realizadas no arquivo `novos_clientes.csv`.
-
----
-
 ## 📂 Estrutura do Projeto  
 
 ```bash

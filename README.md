@@ -1,0 +1,2 @@
+# Projeto_Python_IA_Inteligência_Artificial_e_Previsões
+Após concluir a aula 3 de 4 do curso Jornada Python da Hashtag Programação, com o professor Lira, consegui aplicar na prática diversas ferramentas incríveis e estou fascinado com o que a IA é capaz de fazer! 🤯  Criei um modelo capaz de prever o score de crédito de clientes de um banco, classificando-os em Ruim, Ok ou Bom, com base em seus dados. 📊💻

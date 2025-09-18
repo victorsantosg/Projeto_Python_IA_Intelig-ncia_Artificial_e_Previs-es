@@ -48,16 +48,6 @@ Criar um modelo de IA capaz de, com base nos dados dos clientes, **classificar a
 
 ---
 
-💬 Autor
-
-Victor dos Santos Gonçalves Peixoto
-📍 Fortaleza - CE
-📧 victoorsaantos16@gmail.com
-
-🔗 LinkedIn
-
-💻 GitHub
-
 ## 📂 Estrutura do Projeto  
 
 ```bash
@@ -70,3 +60,14 @@ Victor dos Santos Gonçalves Peixoto
 ├── main.py
 └── README.md
 
+```
+
+💬 Autor
+
+Victor dos Santos Gonçalves Peixoto
+📍 Fortaleza - CE
+📧 victoorsaantos16@gmail.com
+
+🔗 LinkedIn
+
+💻 GitHub

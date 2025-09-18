@@ -60,7 +60,7 @@ Criar um modelo de IA capaz de, com base nos dados dos clientes, **classificar a
 ├── main.py
 └── README.md
 
-```
+
 
 💬 Autor
 
